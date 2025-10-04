@@ -1,0 +1,7 @@
+touple=(10,20,30,40,50,10,10)
+co=touple.count(100)
+print(co)
+touple2=("a","b","c","m","e","z","n")
+list1=list(touple2)
+list1.sort()
+print(list1)
