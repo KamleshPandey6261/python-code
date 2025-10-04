@@ -1,0 +1,5 @@
+tuple=(10,20,"Eram")
+print(tuple)
+print(tuple.count)
+print(tuple[0])
+print(tuple[1::])
