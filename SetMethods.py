@@ -1,0 +1,16 @@
+s={10,20,30,40,50,20,30}
+print(s)
+s.add(39)
+print(s)
+s2={40,90,100}
+s.update(s2)
+print(s)
+s.pop()
+print(s)
+s.discard(39)
+print(s)
+L=[10,20,30,10,20]
+print(L)
+s=set(L)
+l2=list(s)
+print(l2)
