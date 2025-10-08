@@ -1,7 +1,6 @@
 a=10
 class Student:
-    print(a)
-    a=20
+    print(a)   
     print(a)
     def __init__(self,id,name,age,roll,branch):
         self.id=id
